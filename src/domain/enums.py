@@ -1,0 +1,17 @@
+import enum
+
+
+class OrderStatus(str, enum.Enum):
+    PENDING = "PENDING"
+    ALLOCATED = "ALLOCATED"
+    PARTIALLY_ALLOCATED = "PARTIALLY_ALLOCATED"
+    REJECTED = "REJECTED"
+    COMPLETED = "COMPLETED"
+
+
+class TransferStatus(str, enum.Enum):
+    SUGGESTED = "SUGGESTED"
+    APPROVED = "APPROVED"
+    IN_TRANSIT = "IN_TRANSIT"
+    COMPLETED = "COMPLETED"
+    REJECTED = "REJECTED"
