@@ -934,7 +934,7 @@ Made with ❤️ by Muhamad Syukron Zakka
 
 Jika ada pertanyaan atau butuh bantuan:
 
-- 📧 Email: `your-email@example.com`
+- 📧 Email: mhdsyukronzakka@gmail.com
 - 💬 GitHub Discussions: https://github.com/Tricke2D/WarehouseRebalancingEngine/discussions
 - 🐛 Report Bugs: https://github.com/Tricke2D/WarehouseRebalancingEngine/issues/new
 
