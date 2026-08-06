@@ -924,8 +924,8 @@ Contributions are welcome! 🎉
 **MIT License** — Silakan digunakan untuk keperluan belajar, pengembangan, dan produksi.
 
 ```
-Made with ❤️ by [Your Name]
-© 2024 Warehouse Rebalancing Engine
+Made with ❤️ by Muhamad Syukron Zakka
+© 2026 Warehouse Rebalancing Engine
 ```
 
 ---
